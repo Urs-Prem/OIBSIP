@@ -1,0 +1,56 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+
+body{
+  background-color: black;
+  color: white;
+}
+
+.einstein{
+  width: 100%;
+  padding-bottom:10px;
+}
+
+.main1{
+  display:flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.main1 h1{
+  color: white;
+  font-family:serif;
+  font-size:40px;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.main1 h4{
+  text-align: center;
+}
+
+.details{ 
+  background-color: grey;
+  color:black;
+}
+
+.knowmore p{
+  text-align: center;
+}
+
+.knowmore a{
+  text-align: center;
+  color:skyblue;
+}
+
+iframe{
+  display: block;
+  margin: auto;
+  padding: auto;
+}
+
+img{
+  width:100%;
+}
